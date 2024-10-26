@@ -1,5 +1,5 @@
 # GroupChat
-- Groupchat is simple 1.7.10 plugin for group chats. Group chats are deleted after server restart.
+- Lightweight Groupchat 1.7.10 plugin. Group chats are deleted after server restart.
 
 - `/groupchat create` `<name>` - Creates a new group with the specified name.
 - `/groupchat delete` - Deletes the current group.
