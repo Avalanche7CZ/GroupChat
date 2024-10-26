@@ -1,0 +1,14 @@
+name: GroupChat
+version: '${version}'
+main: eu.avalanche7.GroupChat
+load: STARTUP
+authors: [Avalanche7CZ]
+description: GroupChat plugin 1.7.10
+softdepend:
+commands:
+  groupchat:
+    description: 'Manage group chats'
+
+
+
+
